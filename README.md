@@ -22,8 +22,9 @@ A bucket was created to host the static game website.
 ![image of uploaded file](/Uploaded%20S3%20File.png)
 11. On the same page in the previous step, go to properties to choose storage class.
 ![Image on storage class selection](/S3%20Storage%20Class.png)
-11. Click on the uploaded file and click on open.
+12. Click on the uploaded file and click on open. This will open your site on the browser.
 ![image to open file in browser](/Open%20file%20via%20browser.png)
-12. You will get this game page and the link can be copied for your client. 
+13. Click on created bucket, go to properties and scroll to the bottom(Static Website Hosting). Copy the  bucket website hosting for your client to open the website on their browser.
+14. You will get this game page once the link is copied to the browser.
 ![Image of game app](/Game%20App%20live.png)
 
